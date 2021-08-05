@@ -1,13 +1,13 @@
 
-### Hello there 🖥️ 🖐️
+### Hello there 👽 🖖🏻
 
-<img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='460"' height='250"'>
+<img src='https://i.imgur.com/XxBMWVz.jpg' width='460' height='250'>
 
 ### About me 🐬
 
-- 🖐️ I'm John Leskas
+- 🖖🏻 I'm John Leskas
 - 🖥️ I’m currently working from 🏠
-- 🌱 I’m currently learning Gatsby, NextJS, ThreeJS
+- 🌱 I’m currently learning Gatsby, React Three Fiber, ThreeJS
 - 📫 How to reach me: [Twitter - @john_leskas](https://twitter.com/john_leskas)
 
 
@@ -18,9 +18,12 @@
 ### Frameworks
 
 [![WordPress Badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759b)](#)
+[![NextJS Badge](https://img.shields.io/badge/-Next.JS-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
 [![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
 [![Hubspot Badge](https://img.shields.io/badge/-Hubspot-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
+
+
 
 ### Languages
 
@@ -30,15 +33,20 @@
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 
-### Technologies and Tools
+### Databases
 
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-0db7ed?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+
+### Libraries and Tooling
+
+[![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-black?style=for-the-badge&labelColor=black&logo=threedotjs&logoColor=ffffff)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
+
 
 ### All time Statistics
 
-<p>
-</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry" alt="John Leskas"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
