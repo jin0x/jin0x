@@ -6,7 +6,7 @@
 ### About me 🐬
 
 - 🖐️ I'm John Leskas
-- 🖥️ I’m currently work from Home
+- 🖥️ I’m currently working from 🏠
 - 🌱 I’m currently learning Gatsby, NextJS, ThreeJS
 - 📫 How to reach me: [Twitter - @john_leskas](https://twitter.com/john_leskas)
 
@@ -35,8 +35,10 @@
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 
-### Statistics
+### All time Statistics
 
+<p>
+</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry" alt="John Leskas"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
@@ -47,10 +49,7 @@
 
 
 
-<a href="https://profile-summary-for-github.com/user/hongvinhmobile">https://profile-summary-for-github.com/user/jin0x</a>
+<a href="https://profile-summary-for-github.com/user/jin0x">https://profile-summary-for-github.com/user/jin0x</a>
 
 
-
-<a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jin0x&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-</a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin0x%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=postwoman.svg&icon_color=%23D50000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
