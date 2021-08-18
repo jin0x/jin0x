@@ -18,9 +18,10 @@
 ### Frameworks
 
 [![WordPress Badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759b)](#)
-[![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
-[![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
+[![WooCommerce Badge](https://img.shields.io/badge/-WoOCommerce-96588a?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588a)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
+[![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
 [![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
 [![Hubspot Badge](https://img.shields.io/badge/-Hubspot-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
@@ -30,8 +31,8 @@
 ### Languages
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Javascript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=274de4)](#)
 
 
@@ -44,7 +45,7 @@
 
 ### Libraries and Tooling
 
-[![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-black?style=for-the-badge&labelColor=black&logo=threedotjs&logoColor=ffffff)](#)
+[![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-ffffff?style=for-the-badge&labelColor=black&logo=threedotjs&logoColor=ffffff)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-e490d3?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=e490d3)](#)
 
