@@ -51,6 +51,12 @@
 [![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-e490d3?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=e490d3)](#)
 
 
+### Design Tooling
+[![Figma Badge](https://img.shields.io/badge/-Figma-17bcfe?style=for-the-badge&labelColor=black&logo=figma&logoColor=a15afe)](#)
+[![Adobe CC Badge](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&labelColor=black&logo=adobe&logoColor=FF0000)](#)
+
+
+
 ### All time Statistics
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry" alt="John Leskas"/>
