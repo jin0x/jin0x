@@ -22,8 +22,9 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
 [![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
 [![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
+[![Statamic Badge](https://img.shields.io/badge/-Statamic-FF269E?style=for-the-badge&labelColor=black&logo=statamic&logoColor=FF269E)](#)
 [![Hubspot Badge](https://img.shields.io/badge/-Hubspot-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
