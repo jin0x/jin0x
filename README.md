@@ -20,7 +20,7 @@
 [![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
 [![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Eleventy-ffffff?style=for-the-badge&labelColor=black&logo=eleventy&logoColor=ffffff)](#)
+[![Eleventy Badge](https://img.shields.io/badge/-Eleventy-ffffff?style=for-the-badge&labelColor=black&logo=eleventy&logoColor=ffffff)](#)
 [![Statamic Badge](https://img.shields.io/badge/-Statamic-FF269E?style=for-the-badge&labelColor=black&logo=statamic&logoColor=FF269E)](#)
 [![Hubspot Badge](https://img.shields.io/badge/-Hubspot-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
@@ -40,7 +40,8 @@
 
 ### Libraries and Tooling
 
-[![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-ffffff?style=for-the-badge&labelColor=black&logo=threedotjs&logoColor=ffffff)](#)
+[![GSAP Badge](https://img.shields.io/badge/-GSAP-5ccf00?style=for-the-badge&labelColor=black&logo=greensock&logoColor=ffffff)](#)
+[![ThreeJS Badge](https://img.shields.io/badge/-THreeJS-ffffff?style=for-the-badge&labelColor=black&logo=threedotjs&logoColor=ffffff)](#)
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-e490d3?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=e490d3)](#)
 
