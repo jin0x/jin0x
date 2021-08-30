@@ -11,17 +11,19 @@
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep
 
-
 ### CMS
 
 [![WordPress Badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759b)](#)
-[![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588a)](#)
-[![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
 [![Contentful Badge](https://img.shields.io/badge/-Contentful-ffd65e?style=for-the-badge&labelColor=black&logo=contentful&logoColor=f15a66)](#)
 [![Hubspot CMS Badge](https://img.shields.io/badge/-Hubspot%20CMS-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
+[![Prismic Badge](https://img.shields.io/badge/-Prismic-ffffff?style=for-the-badge&labelColor=black&logo=prismic&logoColor=ffffff)](#)
+
+### E-Commerce
+
+[![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588a)](#)
+[![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
 
 ### Frameworks
-
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
@@ -38,11 +40,14 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=274de4)](#)
 
-### Databases
+### Databases and APIs
 
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-df0397?style=for-the-badge&labelColor=black&logo=graphql&logoColor=df0397)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-0db7ed?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)](#)
-[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=e69514)](#)
+[![Hasura Badge](https://img.shields.io/badge/-Hasura-1a2738?style=for-the-badge&labelColor=black&logo=hasura&logoColor=20b3d3)](#)
+[![Prisma Badge](https://img.shields.io/badge/-Prisma-ffffff?style=for-the-badge&labelColor=black&logo=prisma&logoColor=ffffff)](#)
 
 ### Libraries and Tooling
 
@@ -53,8 +58,8 @@
 
 ### Design Tooling
 
-[![Figma Badge](https://img.shields.io/badge/-Figma-17bcfe?style=for-the-badge&labelColor=black&logo=figma&logoColor=a15afe)](#)
 [![Adobe CC Badge](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&labelColor=black&logo=adobe&logoColor=FF0000)](#)
+[![Figma Badge](https://img.shields.io/badge/-Figma-17bcfe?style=for-the-badge&labelColor=black&logo=figma&logoColor=a15afe)](#)
 
 ### All time Statistics
 
