@@ -56,10 +56,11 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-e490d3?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=e490d3)](#)
 
-### Design Tooling
+### Design & Prototyping
 
 [![Adobe CC Badge](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&labelColor=black&logo=adobe&logoColor=FF0000)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-17bcfe?style=for-the-badge&labelColor=black&logo=figma&logoColor=a15afe)](#)
+[![Framer Badge](https://img.shields.io/badge/-Framer-ffffff?style=for-the-badge&labelColor=black&logo=framer&logoColor=ffffff)](#)
 
 ### All time Statistics
 
