@@ -6,7 +6,7 @@
 
 - 🖖🏻 I'm John Leskas
 - 🖥️ I’m currently working from 🏠
-- 🌱 I’m currently learning **Gatsby, React Three Fiber, ThreeJS**
+- 🌱 I’m currently learning **Typescript and React Testing Library**
 - 📫 How to reach me: [Twitter - @john_leskas](https://twitter.com/john_leskas)
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep
