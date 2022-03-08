@@ -29,7 +29,7 @@
 [![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
 [![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-3C873A?style=for-the-badge&labelColor=black&logo=express&logoColor=3C873A)](#)
 [![Statamic Badge](https://img.shields.io/badge/-Statamic-FF269E?style=for-the-badge&labelColor=black&logo=statamic&logoColor=FF269E)](#)
 [![Eleventy Badge](https://img.shields.io/badge/-Eleventy-ffffff?style=for-the-badge&labelColor=black&logo=eleventy&logoColor=ffffff)](#)
 
