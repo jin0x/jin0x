@@ -11,6 +11,26 @@
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep
 
+### All time Statistics
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=jin0x&column=8&theme=onedark"/>
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry" alt="John Leskas"/>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
+
+<br />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin0x&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
+
+[![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
+
 ### CMS
 
 [![WordPress Badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759b)](#)
@@ -61,16 +81,6 @@
 [![Adobe CC Badge](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&labelColor=black&logo=adobe&logoColor=FF0000)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-17bcfe?style=for-the-badge&labelColor=black&logo=figma&logoColor=a15afe)](#)
 [![Framer Badge](https://img.shields.io/badge/-Framer-ffffff?style=for-the-badge&labelColor=black&logo=framer&logoColor=ffffff)](#)
-
-### All time Statistics
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry" alt="John Leskas"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin0x&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
-
-[![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
 
 <a href="https://profile-summary-for-github.com/user/jin0x">https://profile-summary-for-github.com/user/jin0x</a>
 
