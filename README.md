@@ -2,14 +2,9 @@
 
 <img src='https://i.imgur.com/XxBMWVz.jpg' width='460' height='250'>
 
-### About me 🐬
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=000000&lines=Senior+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
 
-- 🖖🏻 I'm John Leskas
-- 🖥️ I’m currently working from 🏠
-- 🌱 I’m currently learning **Typescript and React Testing Library**
-- 📫 How to reach me: [Twitter - @john_leskas](https://twitter.com/john_leskas)
-
-> Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep
+> Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
 
 ### All time Statistics
 
