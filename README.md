@@ -2,7 +2,7 @@
 
 <img src='https://i.imgur.com/XxBMWVz.jpg' width='460' height='250'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=#441f54&lines=Senior+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=441f54&lines=Senior+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
 
