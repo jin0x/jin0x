@@ -6,11 +6,13 @@
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
 
-### All time Statistics
+---
+
+## 🏃‍♂️ All time Statistics
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jin0x&column=8&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jin0x&column=4&theme=onedark"/>
 
 <br />
 
@@ -25,6 +27,10 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin0x&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
 
 [![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
+
+---
+
+## 🧰 Toolbox
 
 ### CMS
 
@@ -78,5 +84,13 @@
 [![Framer Badge](https://img.shields.io/badge/-Framer-ffffff?style=for-the-badge&labelColor=black&logo=framer&logoColor=ffffff)](#)
 
 <a href="https://profile-summary-for-github.com/user/jin0x">https://profile-summary-for-github.com/user/jin0x</a>
+
+---
+
+## 🤙 How to reach me
+
+📫 john@rsh.studio
+🔗 [Linkedin](https://linkedin.com/in/john-leskas)
+🐦 [Twitter](https://twitter.com/john_leskas)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin0x%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=postwoman.svg&icon_color=%23D50000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
