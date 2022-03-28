@@ -49,10 +49,10 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
 [![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-3C873A?style=for-the-badge&labelColor=black&logo=express&logoColor=3C873A)](#)
-[![Statamic Badge](https://img.shields.io/badge/-Statamic-FF269E?style=for-the-badge&labelColor=black&logo=statamic&logoColor=FF269E)](#)
 [![Eleventy Badge](https://img.shields.io/badge/-Eleventy-ffffff?style=for-the-badge&labelColor=black&logo=eleventy&logoColor=ffffff)](#)
+[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
+[![Statamic Badge](https://img.shields.io/badge/-Statamic-FF269E?style=for-the-badge&labelColor=black&logo=statamic&logoColor=FF269E)](#)
 
 ### Languages
 
@@ -64,8 +64,9 @@
 ### Databases and ORMs
 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-df0397?style=for-the-badge&labelColor=black&logo=graphql&logoColor=df0397)](#)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-0db7ed?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336790?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336790)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-0db7ed?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=e69514)](#)
 [![Hasura Badge](https://img.shields.io/badge/-Hasura-1a2738?style=for-the-badge&labelColor=black&logo=hasura&logoColor=20b3d3)](#)
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-ffffff?style=for-the-badge&labelColor=black&logo=prisma&logoColor=ffffff)](#)
