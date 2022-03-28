@@ -1,4 +1,4 @@
-### Hello there 👽 🖖🏻
+### Senior Full Stack Engineer with 15+ years of experience
 
 <img src='https://i.imgur.com/XxBMWVz.jpg' width='460' height='250'>
 
