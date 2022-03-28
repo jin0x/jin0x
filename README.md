@@ -8,7 +8,7 @@
 
 ---
 
-## 🏃‍♂️ All time Statistics
+## 🏃‍♂️ Statistics
 
 <br />
 
