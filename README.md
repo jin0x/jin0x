@@ -88,7 +88,7 @@
 
 ---
 
-## 🤙 How to reach me
+## 🖖🏻 How to reach me
 
 📫 john@rsh.studio
 🔗 [Linkedin](https://linkedin.com/in/john-leskas)
