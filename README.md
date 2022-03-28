@@ -63,10 +63,10 @@
 
 ### Databases and ORMs
 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-df0397?style=for-the-badge&labelColor=black&logo=graphql&logoColor=df0397)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336790?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336790)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-0db7ed?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-df0397?style=for-the-badge&labelColor=black&logo=graphql&logoColor=df0397)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=e69514)](#)
 [![Hasura Badge](https://img.shields.io/badge/-Hasura-1a2738?style=for-the-badge&labelColor=black&logo=hasura&logoColor=20b3d3)](#)
 [![Prisma Badge](https://img.shields.io/badge/-Prisma-ffffff?style=for-the-badge&labelColor=black&logo=prisma&logoColor=ffffff)](#)
