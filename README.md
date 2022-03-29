@@ -90,7 +90,7 @@
 
 ## 🖖🏻 How to reach me
 
-📫 john@rsh.studio
+📫 [Email](john@rsh.studio)
 🔗 [Linkedin](https://linkedin.com/in/john-leskas)
 🐦 [Twitter](https://twitter.com/john_leskas)
 
