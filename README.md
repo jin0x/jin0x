@@ -1,8 +1,8 @@
-### Principal Full Stack Engineer with 15+ years of experience
+### Senior Full Stack Engineer with 15+ years of experience
 
 <img src='https://i.imgur.com/XxBMWVz.jpg' width='460' height='250'>
 
-[![Principal Full Stack Engineer](https://readme-typing-svg.herokuapp.com?font=menlo&color=7026b9&lines=Principal+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
+[![Senior Full Stack Engineer](https://readme-typing-svg.herokuapp.com?font=menlo&color=7026b9&lines=Senior+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
 
