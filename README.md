@@ -4,6 +4,28 @@
 
 [![Senior Full Stack Engineer](https://readme-typing-svg.herokuapp.com?font=menlo&color=7026b9&lines=Senior+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
 
+```javascript
+const whoAmI = {
+  name: "John Leskas",
+  age: 37,
+  personality: [],
+  jobs: ["Creative coder", "Analytical thinker", "Problem-solver"],
+    "Founder & CEO @ RSH Creative Web Studio LTD",
+    "Head of Engineering @ Wynter, inc.",
+    "Senior Full Stack Engineer @ JMS - Contractor",
+    "Senior Full Stack Engineer @ The Brigade, inc - Contractor",
+  ],
+  currentCourse: "MondoDB Academy",
+  hobbies: ["🗺 Travelling", "🏔 Hiking", "🤓 Learning new stuff"],
+  currentCity: "Thessaloniki - Greece",
+  ambitions: [
+    "Build a SaaS in the next five years",
+    "Impacting the world through technology",
+    "Travel the world",
+  ],
+};
+```
+
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
 
 ---
