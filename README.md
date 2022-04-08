@@ -26,6 +26,13 @@ const whoAmI = {
     },
     {
       title: "Senior Full Stack Engineer",
+      company: "Made Studios",
+      employment: "Contractor",
+      startDate: "February 2022",
+      endDate: "Present",
+    },
+    {
+      title: "Senior Full Stack Engineer",
       company: "JMS",
       employment: "Part-time",
       startDate: "February 2019",
