@@ -8,7 +8,7 @@
 const whoAmI = {
   name: "John Leskas",
   age: 37,
-
+  personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
   jobs: [
     {
       title: "Founder & CEO",
