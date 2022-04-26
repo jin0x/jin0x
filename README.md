@@ -9,7 +9,52 @@ const whoAmI = {
   name: "John Leskas",
   age: 37,
   personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
-  
+  jobs: [
+    {
+      title: "Founder & CEO",
+      company: "RSH Creative Web Studio LTD",
+      employment: "Self-employed",
+      startDate: "October 2018",
+      endDate: "Present",
+    },
+    {
+      title: "Head of Engineering",
+      company: "Wynter, inc",
+      employment: "Full-time",
+      startDate: "February 2022",
+      endDate: "Present",
+    },
+    {
+      title: "Senior Full Stack Engineer",
+      company: "Made Studios",
+      employment: "Contractor",
+      startDate: "February 2022",
+      endDate: "Present",
+    },
+    {
+      title: "Senior Full Stack Engineer",
+      company: "JMS",
+      employment: "Part-time",
+      startDate: "February 2019",
+      endDate: "Present",
+    },
+    {
+      title: "Senior Full Stack Engineer",
+      company: "The Brigade, inc",
+      employment: "Part-time",
+      startDate: "October 2019",
+      endDate: "Present",
+    },
+  ],
+  currentCourse: "MondoDB Academy",
+  hobbies: ["🗺 Travelling", "🏔 Hiking", "🤓 Learning new stuff"],
+  currentCity: "Thessaloniki - Greece",
+  ambitions: [
+    "Build a SaaS in the next five years",
+    "Impacting the world through technology",
+    "Travel the world",
+  ],
+};
 ```
 
 > Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
