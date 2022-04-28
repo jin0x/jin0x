@@ -63,12 +63,6 @@ const whoAmI = {
 
 ## 🏃‍♂️ Statistics
 
-<br />
-
-![codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jin0x&show-avatar=false&branding=false&style=--header-bg-color:#7026b9)
-
-<br />
-
 <img src="https://github-profile-trophy.vercel.app/?username=jin0x&column=4&theme=onedark"/>
 
 <br />
