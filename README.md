@@ -149,8 +149,8 @@ const whoAmI = {
 
 ## 🖖🏻 How to reach me
 
-📫 [Email](john@rsh.studio)
-🔗 [Linkedin](https://linkedin.com/in/john-leskas)
-🐦 [Twitter](https://twitter.com/john_leskas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john@rsh.studio)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-leskas)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/john_leskas)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin0x%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=postwoman.svg&icon_color=%23D50000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
