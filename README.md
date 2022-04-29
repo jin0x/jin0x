@@ -34,14 +34,14 @@ const whoAmI = {
     {
       title: "Senior Full Stack Engineer",
       company: "JMS",
-      employment: "Part-time",
+      employment: "Contractor",
       startDate: "February 2019",
       endDate: "Present",
     },
     {
       title: "Senior Full Stack Engineer",
       company: "The Brigade, inc",
-      employment: "Part-time",
+      employment: "Contractor",
       startDate: "October 2019",
       endDate: "Present",
     },
