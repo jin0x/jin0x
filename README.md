@@ -65,27 +65,21 @@ const whoAmI = {
 
 <br />
 
-![codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jin0x&show-avatar=false&branding=false&style=--header-bg-color:#7026b9)
+[![Codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jin0x&show-avatar=false&branding=false&style=--header-bg-color:#7026b9)](https://github.com/jin0x)
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jin0x&column=4&theme=onedark"/>
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry" alt="John Leskas"/>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" />
-
-<br />
+[![GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry)](https://github.com/jin0x)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin0x&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
 
-[![WakaTime Top Langs](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
+[![Languages used this week](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jin0x)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true)](https://github.com/jin0x)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=jin0x&column=4&theme=onedark)](https://github.com/jin0x)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jin0x)](https://github.com/jin0x)
 
 ---
 
