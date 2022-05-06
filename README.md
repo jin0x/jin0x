@@ -63,11 +63,7 @@ const whoAmI = {
 
 ## 🏃‍♂️ Statistics
 
-<br />
-
-[![Codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jin0x&show-avatar=false&branding=false&style=--header-bg-color:#7026b9)](https://github.com/jin0x)
-
-<br />
+[![Codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jin0x&show-avatar=false&branding=false&style=--header-bg-color:%230c1118;--bg-color:%230c1118)](https://github.com/jin0x)
 
 [![GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry)](https://github.com/jin0x)
 
