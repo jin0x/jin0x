@@ -11,13 +11,6 @@ const whoAmI = {
   personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
   jobs: [
     {
-      title: "Founder & CEO",
-      company: "RSH Creative Web Studio LTD",
-      employment: "Self-employed",
-      startDate: "October 2018",
-      endDate: "Present",
-    },
-    {
       title: "Head of Engineering",
       company: "Wynter, inc",
       employment: "Full-time",
@@ -43,6 +36,13 @@ const whoAmI = {
       company: "The Brigade, inc",
       employment: "Contractor",
       startDate: "October 2019",
+      endDate: "Present",
+    },
+    {
+      title: "Founder & CEO",
+      company: "RSH Creative Web Studio LTD",
+      employment: "Self-employed",
+      startDate: "October 2018",
       endDate: "Present",
     },
   ],
