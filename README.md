@@ -18,7 +18,7 @@ const whoAmI = {
       endDate: "Present",
     },
     {
-      title: "Software Engineering Lead ",
+      title: "Software Engineering Lead",
       company: "Made Studios",
       employment: "Partner",
       startDate: "February 2022",
