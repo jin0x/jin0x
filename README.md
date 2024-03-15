@@ -7,34 +7,34 @@
 ```javascript
 const whoAmI = {
   name: "John Leskas",
-  age: 37,
+  age: 38,
   personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
   jobs: [
     {
-      title: "Head of Engineering",
+      title: "Head of Engineering & AI",
       company: "Wynter, inc",
       employment: "Full-time",
       startDate: "February 2022",
       endDate: "Present",
     },
     {
-      title: "Senior Full Stack Engineer",
+      title: "Software Engineering Lead ",
       company: "Made Studios",
-      employment: "Contractor",
+      employment: "Partner",
       startDate: "February 2022",
       endDate: "Present",
     },
     {
-      title: "Senior Full Stack Engineer",
+      title: "Software Engineering Lead",
       company: "JMS",
-      employment: "Contractor",
+      employment: "Partner",
       startDate: "February 2019",
       endDate: "Present",
     },
     {
-      title: "Senior Full Stack Engineer",
+      title: "Software Engineering Lead",
       company: "The Brigade, inc",
-      employment: "Contractor",
+      employment: "Partner",
       startDate: "October 2019",
       endDate: "Present",
     },
@@ -57,7 +57,7 @@ const whoAmI = {
 };
 ```
 
-> Life is a constant battle of not knowing whether I want to quit programming forever, or if I just need some sleep</p>
+> Work hard in silence, let your success be your noise.</p>
 
 ---
 
@@ -84,6 +84,7 @@ const whoAmI = {
 ### CMS
 
 [![WordPress Badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759b)](#)
+[![Sanity Badge](https://img.shields.io/badge/-Sanity-e93d2e?style=for-the-badge&labelColor=black&logo=sanity&logoColor=f15a66)](#)
 [![Contentful Badge](https://img.shields.io/badge/-Contentful-ffd65e?style=for-the-badge&labelColor=black&logo=contentful&logoColor=f15a66)](#)
 [![Hubspot CMS Badge](https://img.shields.io/badge/-Hubspot%20CMS-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
 [![Prismic Badge](https://img.shields.io/badge/-Prismic-ffffff?style=for-the-badge&labelColor=black&logo=prismic&logoColor=ffffff)](#)
