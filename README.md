@@ -75,8 +75,6 @@ const whoAmI = {
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=jin0x&column=4&theme=onedark)](https://github.com/jin0x)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jin0x)](https://github.com/jin0x)
-
 ---
 
 ## 🧰 Toolbox
