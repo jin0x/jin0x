@@ -12,7 +12,7 @@ const whoAmI = {
   jobs: [
     {
       title: "Head of Engineering & AI",
-      company: "Wynter, inc",
+      company: "Wynter, Inc.",
       employment: "Full-time",
       startDate: "February 2022",
       endDate: "Present",
@@ -33,7 +33,7 @@ const whoAmI = {
     },
     {
       title: "Software Engineering Lead",
-      company: "The Brigade, inc",
+      company: "The Brigade, Inc.",
       employment: "Partner",
       startDate: "October 2019",
       endDate: "Present",
@@ -46,9 +46,8 @@ const whoAmI = {
       endDate: "Present",
     },
   ],
-  currentCourse: "MondoDB Academy",
   hobbies: ["🗺 Travelling", "🏔 Hiking", "🤓 Learning new stuff"],
-  currentCity: "Thessaloniki - Greece",
+  location: "🌍 World",
   ambitions: [
     "Build a SaaS in the next five years",
     "Impacting the world through technology",
@@ -57,7 +56,7 @@ const whoAmI = {
 };
 ```
 
-> Work hard in silence, let your success be your noise.</p>
+> Work hard in silence; let your success be your noise.</p>
 
 ---
 
