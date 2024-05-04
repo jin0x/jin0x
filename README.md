@@ -7,7 +7,7 @@
 ```javascript
 const whoAmI = {
   name: "John Leskas",
-  age: 38,
+  age: ∞,
   personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
   jobs: [
     {
