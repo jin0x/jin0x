@@ -103,11 +103,11 @@ const whoAmI = {
 
 ### Languages
 
-[![Python Badge](https://img.shields.io/badge/-Python-#476f9d?style=for-the-badge&labelColor=black&logo=php&logoColor=#476f9d)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-476f9d?style=for-the-badge&labelColor=black&logo=Python&logoColor=476f9d)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=274de4)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=579bd1)](#)
 
 ### Databases and ORMs
 
