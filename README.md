@@ -103,6 +103,7 @@ const whoAmI = {
 
 ### Languages
 
+[![Python Badge](https://img.shields.io/badge/-Python-#476f9d?style=for-the-badge&labelColor=black&logo=php&logoColor=#476f9d)](#)
 [![PHP Badge](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
