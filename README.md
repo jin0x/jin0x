@@ -68,6 +68,8 @@ const whoAmI = {
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin0x&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
 
+[![John's github stats](https://github-readme-stats.vercel.app/api?username=jin0x)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Languages used this week](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true)](https://github.com/jin0x)
