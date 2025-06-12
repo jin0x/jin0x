@@ -11,7 +11,7 @@ const whoAmI = {
   personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
   jobs: [
     {
-      title: "Head of Engineering & AI",
+      title: "Head of AI",
       company: "Wynter, Inc.",
       employment: "Full-time",
       startDate: "February 2022",
@@ -25,21 +25,7 @@ const whoAmI = {
       endDate: "Present",
     },
     {
-      title: "Software Engineering Lead",
-      company: "JMS",
-      employment: "Partner",
-      startDate: "February 2019",
-      endDate: "Present",
-    },
-    {
-      title: "Software Engineering Lead",
-      company: "The Brigade, Inc.",
-      employment: "Partner",
-      startDate: "October 2019",
-      endDate: "Present",
-    },
-    {
-      title: "Founder & CEO",
+      title: "Founder & HEad of Development",
       company: "RSH Creative Web Studio LTD",
       employment: "Self-employed",
       startDate: "October 2018",
