@@ -58,7 +58,7 @@ const identity = {
       role: "Chief AI Officer",
       essence: "AI leadership for B2B's leading message testing platform",
       philosophy: "EMPOWER. TRANSFORM. RADIATE.",
-    }
+    },
   },
 
   operatingPrinciples: [
@@ -92,9 +92,7 @@ const identity = {
 
 ### `[2018]` ─ THE SPARK
 
-> *What began as a modest web studio was fueled by one audacious belief:*
-> *that with craft, clarity, and resilience, even small teams could shape*
-> *extraordinary digital experiences.*
+> _What began as a modest web studio was fueled by one audacious belief:_ > _that with craft, clarity, and resilience, even small teams could shape_ > _extraordinary digital experiences._
 
 ```
 [INIT] RSH founded — Limassol, Cyprus
@@ -105,9 +103,7 @@ const identity = {
 
 ### `[2019]` ─ PROVING THE VISION
 
-> *By earning the trust of forward-thinking clients, we turned bold ideas*
-> *into measurable outcomes—delivering high-caliber work alongside*
-> *world-renowned creative teams.*
+> _By earning the trust of forward-thinking clients, we turned bold ideas_ > _into measurable outcomes—delivering high-caliber work alongside_ > _world-renowned creative teams._
 
 ```
 [SYNC] Allied systems detected: Mozilla, Washington Post, Spotify
@@ -118,9 +114,7 @@ const identity = {
 
 ### `[2020]` ─ FORGED BY PRESSURE
 
-> *In a world shifting beneath our feet, we became more than builders—*
-> *we became translators of ambiguity, turning urgent problems into*
-> *adaptive, resilient solutions.*
+> _In a world shifting beneath our feet, we became more than builders—_ > _we became translators of ambiguity, turning urgent problems into_ > _adaptive, resilient solutions._
 
 ```
 [ALERT] Global disruption detected
@@ -132,9 +126,7 @@ const identity = {
 
 ### `[2021]` ─ THE QUIET REINVENTION
 
-> *While others watched AI from afar, we turned inward. We experimented*
-> *relentlessly—augmenting our own workflows, testing limits, and preparing*
-> *for a shift that would soon redefine everything.*
+> _While others watched AI from afar, we turned inward. We experimented_ > _relentlessly—augmenting our own workflows, testing limits, and preparing_ > _for a shift that would soon redefine everything._
 
 ```
 [PROCESS] AI research threads initiated
@@ -146,9 +138,7 @@ const identity = {
 
 ### `[2022]` ─ BECOMING RADIANT
 
-> *Emerging from reinvention, we shed our old skin and became*
-> *Radiant Synergy Hub—an idea, a system, a force powered by*
-> *transformation, clarity, and a new mythology of what's possible.*
+> _Emerging from reinvention, we shed our old skin and became_ > _Radiant Synergy Hub—an idea, a system, a force powered by_ > _transformation, clarity, and a new mythology of what's possible._
 
 ```
 [THREAD_1] RSH: Founder & Head of Development — ACTIVE
@@ -160,9 +150,7 @@ const identity = {
 
 ### `[2023]` ─ AUGMENTED BY DESIGN
 
-> *AI didn't replace us—it extended us. Our capabilities expanded,*
-> *our clarity sharpened, and suddenly we were operating at a scale*
-> *far beyond our size. This wasn't automation—it was amplification.*
+> _AI didn't replace us—it extended us. Our capabilities expanded,_ > _our clarity sharpened, and suddenly we were operating at a scale_ > _far beyond our size. This wasn't automation—it was amplification._
 
 ```
 [UPGRADE] Wynter role: Head of AI Engineering
@@ -174,10 +162,7 @@ const identity = {
 
 ### `[2024]` ─ PROOF IN THE PARTNERSHIPS
 
-> *From global brands like Spotify, Mozilla, Patreon, and The Washington Post*
-> *to visionary studios and founders, our work spoke louder than our name.*
-> *This was the era of quiet excellence—strategic, intentional, and*
-> *unmistakably world-class.*
+> _From global brands like Spotify, Mozilla, Patreon, and The Washington Post_ > _to visionary studios and founders, our work spoke louder than our name._ > _This was the era of quiet excellence—strategic, intentional, and_ > _unmistakably world-class._
 
 ```
 [SCAN] Portfolio nodes: Visa, Smartsheet, Nike, Patreon, BMC, Teradata
@@ -188,9 +173,7 @@ const identity = {
 
 ### `[2025]` ─ IGNITION
 
-> *This is the ignition point. Stepping into the light—not to scale*
-> *indiscriminately, but to illuminate what's next. Armed with wisdom,*
-> *craft, and an augmented edge.*
+> _This is the ignition point. Stepping into the light—not to scale_ > _indiscriminately, but to illuminate what's next. Armed with wisdom,_ > _craft, and an augmented edge._
 
 ```
 [THREAD_1] RSH: Founder & Head of Development — RADIANT
@@ -202,8 +185,7 @@ const identity = {
 
 ### `[2025+]` ─ THE OPEN LOOP
 
-> *The story doesn't end. It compiles at runtime.*
-> *Every challenge is a spark. Every solution, a signal forward.*
+> _The story doesn't end. It compiles at runtime._ > _Every challenge is a spark. Every solution, a signal forward._
 
 ```
 [FUTURE] MSc in Artificial Intelligence — University of Essex [IN PROGRESS]
