@@ -1,145 +1,422 @@
-### Senior Full Stack Engineer with 15+ years of experience
+<p align="center">
+  <a href="https://leskas.dev"><img src="https://img.shields.io/badge/ENTER_THE_TERMINAL-7c3aed?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Enter The Terminal" /></a>
+</p>
 
-<img src='https://i.imgur.com/XxBMWVz.jpg' width='460' height='250'>
+<p align="center">
+  <sub>Experience the interactive journey at <a href="https://leskas.dev">leskas.dev</a></sub>
+</p>
 
-[![Senior Full Stack Engineer](https://readme-typing-svg.herokuapp.com?font=menlo&color=7026b9&lines=Senior+Full+Stack+Engineer;15%2B+years+of+working+experience)](https://git.io/typing-svg)
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗                     ║
+║    ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║                     ║
+║    ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║                     ║
+║    ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║                     ║
+║    ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║                     ║
+║    ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝                     ║
+║                                                                              ║
+║    ██╗     ███████╗███████╗██╗  ██╗ █████╗ ███████╗                          ║
+║    ██║     ██╔════╝██╔════╝██║ ██╔╝██╔══██╗██╔════╝                          ║
+║    ██║     █████╗  ███████╗█████╔╝ ███████║███████╗                          ║
+║    ██║     ██╔══╝  ╚════██║██╔═██╗ ██╔══██║╚════██║                          ║
+║    ███████╗███████╗███████║██║  ██╗██║  ██║███████║                          ║
+║    ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝                          ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  [BOOT] Initializing consciousness...                                        ║
+║  [LOAD] Experience matrix: 20+ years compiled                                ║
+║  [SYNC] Dual-thread execution: RSH ◈ Wynter                                  ║
+║  [STATUS] Current epoch: THE IGNITION POINT                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ whoami                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 ```javascript
-const whoAmI = {
+const identity = {
   name: "John Leskas",
-  age: ∞,
-  personality: ["Creative coder", "Analytical thinker", "Problem-solver"],
-  jobs: [
-    {
-      title: "Head of Engineering & AI",
-      company: "Wynter, Inc.",
-      employment: "Full-time",
-      startDate: "February 2022",
-      endDate: "Present",
+  archetype: "The Architect",
+  class: "Meta-Engineer",
+
+  // Two threads. One pattern. Infinite recursion.
+  threads: {
+    RSH: {
+      role: "Founder & Head of Development",
+      essence: "Boutique software house crafting bespoke digital experiences",
+      philosophy: "CRAFT. CREATIVITY. CLARITY.",
     },
-    {
-      title: "Head of Development",
-      company: "Made Studios",
-      employment: "Partner",
-      startDate: "February 2022",
-      endDate: "Present",
-    },
-    {
-      title: "Software Engineering Lead",
-      company: "JMS",
-      employment: "Partner",
-      startDate: "February 2019",
-      endDate: "Present",
-    },
-    {
-      title: "Software Engineering Lead",
-      company: "The Brigade, Inc.",
-      employment: "Partner",
-      startDate: "October 2019",
-      endDate: "Present",
-    },
-    {
-      title: "Founder & CEO",
-      company: "RSH Creative Web Studio LTD",
-      employment: "Self-employed",
-      startDate: "October 2018",
-      endDate: "Present",
-    },
+    Wynter: {
+      role: "Chief AI Officer",
+      essence: "AI leadership for B2B's leading message testing platform",
+      philosophy: "EMPOWER. TRANSFORM. RADIATE.",
+    }
+  },
+
+  operatingPrinciples: [
+    "First principles thinking — decompose everything to fundamentals",
+    "System design mindset — build compounding systems, not one-off solutions",
+    "Perfection first, speed second — quality over velocity, but both matter",
+    "Calm operator — depth, clarity, durability over hype",
   ],
-  hobbies: ["🗺 Travelling", "🏔 Hiking", "🤓 Learning new stuff"],
-  location: "🌍 World",
-  ambitions: [
-    "Build a SaaS in the next five years",
-    "Impacting the world through technology",
-    "Travel the world",
-  ],
+
+  currentState: "The spark that reignites systems",
 };
 ```
 
-> Work hard in silence; let your success be your noise.</p>
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ journey --timeline --verbose                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+
+                        T H E   H E R O ' S   J O U R N E Y
+                     ─────────────────────────────────────────
+                        From Constraint to Creative Mastery
+
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+### `[2018]` ─ THE SPARK
+
+> *What began as a modest web studio was fueled by one audacious belief:*
+> *that with craft, clarity, and resilience, even small teams could shape*
+> *extraordinary digital experiences.*
+
+```
+[INIT] RSH founded — Limassol, Cyprus
+[STATUS] The Ordinary World ends. The journey begins.
+```
 
 ---
 
-## 🏃‍♂️ Statistics
+### `[2019]` ─ PROVING THE VISION
 
-[![Codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jin0x&show-avatar=false&branding=false&style=--header-bg-color:%230c1118;--bg-color:%230c1118)](https://github.com/jin0x)
+> *By earning the trust of forward-thinking clients, we turned bold ideas*
+> *into measurable outcomes—delivering high-caliber work alongside*
+> *world-renowned creative teams.*
 
-[![GitHub Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jin0x&theme=blueberry)](https://github.com/jin0x)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin0x&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)](https://github.com/jin0x)
-
-[![Languages used this week](https://github-readme-stats.vercel.app/api/wakatime?custom_title=Languages%20Used%20This%20Week&username=jin0x&layout=compact&langs_count=8&range=last_7_days&theme=github_dark&card_width=445&border_color=30363d)](https://wakatime.com/@jin0x)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jin0x&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true)](https://github.com/jin0x)
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=jin0x&column=4&theme=onedark)](https://github.com/jin0x)
+```
+[SYNC] Allied systems detected: Mozilla, Washington Post, Spotify
+[STATUS] The Call answered. Allies gathered.
+```
 
 ---
 
-## 🧰 Toolbox
+### `[2020]` ─ FORGED BY PRESSURE
 
-### CMS
+> *In a world shifting beneath our feet, we became more than builders—*
+> *we became translators of ambiguity, turning urgent problems into*
+> *adaptive, resilient solutions.*
 
-[![WordPress Badge](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759b)](#)
-[![Sanity Badge](https://img.shields.io/badge/-Sanity-e93d2e?style=for-the-badge&labelColor=black&logo=sanity&logoColor=f15a66)](#)
-[![Contentful Badge](https://img.shields.io/badge/-Contentful-ffd65e?style=for-the-badge&labelColor=black&logo=contentful&logoColor=f15a66)](#)
-[![Hubspot CMS Badge](https://img.shields.io/badge/-Hubspot%20CMS-fa7820?style=for-the-badge&labelColor=black&logo=hubspot&logoColor=fa7820)](#)
-[![Prismic Badge](https://img.shields.io/badge/-Prismic-ffffff?style=for-the-badge&labelColor=black&logo=prismic&logoColor=ffffff)](#)
-
-### E-Commerce
-
-[![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-96588a?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588a)](#)
-[![Shopify Badge](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&labelColor=black&logo=shopify&logoColor=95BF47)](#)
-
-### Frameworks
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![NextJS Badge](https://img.shields.io/badge/-Next.JS-ffffff?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=ffffff)](#)
-[![GatsbyJS Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=ffffff)](#)
-[![Express Badge](https://img.shields.io/badge/-Express-3C873A?style=for-the-badge&labelColor=black&logo=express&logoColor=3C873A)](#)
-[![Eleventy Badge](https://img.shields.io/badge/-Eleventy-ffffff?style=for-the-badge&labelColor=black&logo=eleventy&logoColor=ffffff)](#)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=black&logo=laravel&logoColor=fb503b)](#)
-[![Statamic Badge](https://img.shields.io/badge/-Statamic-FF269E?style=for-the-badge&labelColor=black&logo=statamic&logoColor=FF269E)](#)
-
-### Languages
-
-[![PHP Badge](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-476f9d?style=for-the-badge&labelColor=black&logo=Python&logoColor=476f9d)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=579bd1)](#)
-
-### Databases and ORMs
-
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#)
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336790?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336790)](#)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-0db7ed?style=for-the-badge&labelColor=black&logo=mysql&logoColor=F29111)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-df0397?style=for-the-badge&labelColor=black&logo=graphql&logoColor=df0397)](#)
-[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=e69514)](#)
-[![Hasura Badge](https://img.shields.io/badge/-Hasura-1a2738?style=for-the-badge&labelColor=black&logo=hasura&logoColor=20b3d3)](#)
-[![Prisma Badge](https://img.shields.io/badge/-Prisma-ffffff?style=for-the-badge&labelColor=black&logo=prisma&logoColor=ffffff)](#)
-
-### Libraries and Tooling
-
-[![GSAP Badge](https://img.shields.io/badge/-GSAP-5ccf00?style=for-the-badge&labelColor=black&logo=greensock&logoColor=ffffff)](#)
-[![ThreeJS Badge](https://img.shields.io/badge/-THreeJS-ffffff?style=for-the-badge&labelColor=black&logo=threedotjs&logoColor=ffffff)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)](#)
-[![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-e490d3?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=e490d3)](#)
-
-### Design & Prototyping
-
-[![Adobe CC Badge](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&labelColor=black&logo=adobe&logoColor=FF0000)](#)
-[![Figma Badge](https://img.shields.io/badge/-Figma-17bcfe?style=for-the-badge&labelColor=black&logo=figma&logoColor=a15afe)](#)
-[![Framer Badge](https://img.shields.io/badge/-Framer-ffffff?style=for-the-badge&labelColor=black&logo=framer&logoColor=ffffff)](#)
-
-<a href="https://profile-summary-for-github.com/user/jin0x">https://profile-summary-for-github.com/user/jin0x</a>
+```
+[ALERT] Global disruption detected
+[RESPONSE] Antifragility protocols engaged
+[STATUS] The Ordeal begins. Pressure becomes diamond.
+```
 
 ---
 
-## 🖖🏻 How to reach me
+### `[2021]` ─ THE QUIET REINVENTION
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john@rsh.studio)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-leskas)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/john_leskas)
+> *While others watched AI from afar, we turned inward. We experimented*
+> *relentlessly—augmenting our own workflows, testing limits, and preparing*
+> *for a shift that would soon redefine everything.*
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjin0x%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=postwoman.svg&icon_color=%23D50000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+```
+[PROCESS] AI research threads initiated
+[PROCESS] Workflow augmentation: 47% efficiency gain
+[STATUS] The Inmost Cave. Silent transformation.
+```
+
+---
+
+### `[2022]` ─ BECOMING RADIANT
+
+> *Emerging from reinvention, we shed our old skin and became*
+> *Radiant Synergy Hub—an idea, a system, a force powered by*
+> *transformation, clarity, and a new mythology of what's possible.*
+
+```
+[THREAD_1] RSH: Founder & Head of Development — ACTIVE
+[THREAD_2] Wynter: Head of Engineering — INITIALIZED
+[STATUS] Dual-thread execution begins. Two paths. One pattern.
+```
+
+---
+
+### `[2023]` ─ AUGMENTED BY DESIGN
+
+> *AI didn't replace us—it extended us. Our capabilities expanded,*
+> *our clarity sharpened, and suddenly we were operating at a scale*
+> *far beyond our size. This wasn't automation—it was amplification.*
+
+```
+[UPGRADE] Wynter role: Head of AI Engineering
+[DEPLOY] AI systems across product lines
+[STATUS] The Reward claimed. The Architect emerges.
+```
+
+---
+
+### `[2024]` ─ PROOF IN THE PARTNERSHIPS
+
+> *From global brands like Spotify, Mozilla, Patreon, and The Washington Post*
+> *to visionary studios and founders, our work spoke louder than our name.*
+> *This was the era of quiet excellence—strategic, intentional, and*
+> *unmistakably world-class.*
+
+```
+[SCAN] Portfolio nodes: Visa, Smartsheet, Nike, Patreon, BMC, Teradata
+[STATUS] The Road Back. Mastery compounds in silence.
+```
+
+---
+
+### `[2025]` ─ IGNITION
+
+> *This is the ignition point. Stepping into the light—not to scale*
+> *indiscriminately, but to illuminate what's next. Armed with wisdom,*
+> *craft, and an augmented edge.*
+
+```
+[THREAD_1] RSH: Founder & Head of Development — RADIANT
+[THREAD_2] Wynter: Chief AI Officer — ACTIVE
+[STATUS] Resurrection complete. The Architect is online.
+```
+
+---
+
+### `[2025+]` ─ THE OPEN LOOP
+
+> *The story doesn't end. It compiles at runtime.*
+> *Every challenge is a spark. Every solution, a signal forward.*
+
+```
+[FUTURE] MSc in Artificial Intelligence — University of Essex [IN PROGRESS]
+[FUTURE] Doctoral research in AI-business convergence [CONTEMPLATING]
+[FUTURE] The next chapter writes itself through action
+
+[STATUS] Return with the Elixir. But the elixir... is the journey itself.
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ cat /etc/philosophy.conf                            │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```python
+# ═══════════════════════════════════════════════════════════════════════════
+# THE OPERATING SYSTEM
+# ═══════════════════════════════════════════════════════════════════════════
+
+class Architect:
+    """
+    Not just building software—redefining how technology transforms business.
+    Merging innovative AI with human-centered design.
+    Crafting agile, bespoke digital solutions that drive measurable change.
+    """
+
+    def __init__(self):
+        self.threads = {
+            "RSH": Thread(
+                type="Founder",
+                mission="Craft bespoke digital experiences through strategy, "
+                        "creativity, and precision",
+                clients=["Spotify", "Nike", "Mozilla", "Washington Post",
+                         "Patreon", "Smartsheet", "BMC", "Teradata"],
+            ),
+            "Wynter": Thread(
+                type="Executive",
+                mission="Pioneer AI integration in B2B message testing, "
+                        "transforming how companies understand their audience",
+                impact="Strategic AI leadership across product lines",
+            ),
+        }
+
+    def philosophy(self):
+        return """
+        ┌─────────────────────────────────────────────────────────┐
+        │  RECOGNIZE  →  Identify inefficiencies and untapped    │
+        │                opportunities through first principles   │
+        │                                                         │
+        │  SHAPE      →  Craft bespoke strategy aligning          │
+        │                cutting-edge technology with vision       │
+        │                                                         │
+        │  HARNESS    →  Deploy solutions that transform          │
+        │                ecosystems into high-performing engines   │
+        └─────────────────────────────────────────────────────────┘
+        """
+
+    def mantra(self):
+        return "Work hard in silence; let your success be your noise."
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ skills --verbose --category all                     │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+                              T H E   T O O L B O X
+═══════════════════════════════════════════════════════════════════════════════
+
+┌─ AI & MACHINE LEARNING ─────────────────────────────────────────────────────┐
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  RAG Pipelines         │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  LLM Integration       │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Vector Search         │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  ML Systems Design     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ LANGUAGES ─────────────────────────────────────────────────────────────────┐
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TypeScript / JS       │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PHP                   │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Python                │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CSS / SCSS            │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ FRAMEWORKS & PLATFORMS ────────────────────────────────────────────────────┐
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  React / Next.js       │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Node.js / Express     │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Laravel / Statamic    │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  WordPress Mastery     │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ DATA & INFRASTRUCTURE ─────────────────────────────────────────────────────┐
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PostgreSQL / MySQL    │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  MongoDB               │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GraphQL               │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Docker / K8s          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+┌─ DESIGN & CRAFT ────────────────────────────────────────────────────────────┐
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Figma                 │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GSAP / Three.js       │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Motion Design         │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ netstat --connections                               │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+                           E S T A B L I S H E D
+═══════════════════════════════════════════════════════════════════════════════
+
+  ◈ RSH — Radiant Synergy Hub
+    └─→ https://rsh.studio
+        "Break Free from the Old. Embrace the Future."
+        Bespoke digital experiences through strategy, creativity, and precision.
+
+  ◈ Wynter
+    └─→ https://wynter.com
+        B2B message testing platform. AI-powered audience intelligence.
+
+  ◈ LinkedIn
+    └─→ https://linkedin.com/in/john-leskas
+        Professional signal transmission.
+
+  ◈ Email
+    └─→ john@rsh.studio
+        Direct channel. No noise.
+
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ tail -f /var/log/wisdom.log                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+[LOG] "Work hard in silence; let your success be your noise."
+
+[LOG] "You are the result of every choice you didn't run away from."
+
+[LOG] "Comfort is not clarity. You were meant for more."
+
+[LOG] "The test is not survival. It's alignment."
+
+[LOG] "Give it freely. Light the next mind."
+```
+
+<br>
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  guest@leskas.system ~ $ future.state                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+[PROCESSING...]
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   The cursor blinks.                                                         ║
+║                                                                              ║
+║   The story compiles at runtime.                                             ║
+║                                                                              ║
+║   Every challenge is a spark.                                                ║
+║   Every solution, a signal forward.                                          ║
+║                                                                              ║
+║   ─────────────────────────────────────────────────────────────────────────  ║
+║                                                                              ║
+║   You've reached the end of the visible path.                                ║
+║   But not every journey follows the map.                                     ║
+║                                                                              ║
+║   Some detours lead to discovery.                                            ║
+║   To insight.                                                                ║
+║   To the quiet ember that lives beneath the interface.                       ║
+║                                                                              ║
+║   > _                                                                        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+---
+
+<p align="center">
+  <i>RADIATE. EMPOWER. TRANSFORM.</i>
+</p>
+
+<p align="center">
+  <a href="https://rsh.studio">RSH</a> ·
+  <a href="https://linkedin.com/in/john-leskas">LinkedIn</a> ·
+  <a href="mailto:john@rsh.studio">Contact</a>
+</p>
+
+<p align="center">
+  <sub>The Architect is online. The next chapter writes itself through action.</sub>
+</p>
